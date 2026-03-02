@@ -189,3 +189,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	howett.net/plist v1.0.1 // indirect
 )
+
+replace github.com/greenpau/go-authcrunch => github.com/TMYTiMidlY/go-authcrunch v0.0.0-20260301162506-95db5634676a
