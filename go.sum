@@ -42,6 +42,8 @@ github.com/Masterminds/sprig/v3 v3.3.0 h1:mQh0Yrg1XPo6vjYXgtf5OtijNAKJRNcTdOOGZe
 github.com/Masterminds/sprig/v3 v3.3.0/go.mod h1:Zy1iXRYNqNLUolqCpL4uhk6SHUMAOSCzdgBfDb35Lz0=
 github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
+github.com/TMYTiMidlY/go-authcrunch v0.0.0-20260301162506-95db5634676a h1:Oz7E0a0zXee88LJbHX3fUQtaXB/dYYBqS5UKugA7Fsk=
+github.com/TMYTiMidlY/go-authcrunch v0.0.0-20260301162506-95db5634676a/go.mod h1:iORAODtQ3vGQegQbxuavFOZd40D91Z5jrmnBQCz83hc=
 github.com/alecthomas/assert/v2 v2.11.0 h1:2Q9r3ki8+JYXvGsDyBXwH3LcJ+WK5D0gc5E8vS6K3D0=
 github.com/alecthomas/assert/v2 v2.11.0/go.mod h1:Bze95FyfUr7x34QZrjL+XP+0qgp/zg8yS+TtBj1WA3k=
 github.com/alecthomas/chroma/v2 v2.2.0/go.mod h1:vf4zrexSH54oEjJ7EdB65tGNHmH3pGZmVkgTP5RHvAs=
@@ -213,8 +215,6 @@ github.com/googleapis/gax-go/v2 v2.17.0 h1:RksgfBpxqff0EZkDWYuz9q/uWsTVz+kf43LsZ
 github.com/googleapis/gax-go/v2 v2.17.0/go.mod h1:mzaqghpQp4JDh3HvADwrat+6M3MOIDp5YKHhb9PAgDY=
 github.com/greenpau/caddy-trace v1.1.13 h1:sQveqzDt+O1/ZpfpJddXJ5S2UHtcvSVDKZRgZ9wGo/k=
 github.com/greenpau/caddy-trace v1.1.13/go.mod h1:K6lD24evCjgCFqz8KYJbXMvMAQ8wFEG0+Z4EEqDU1dA=
-github.com/greenpau/go-authcrunch v1.1.9 h1:zW1QSBae/89k8cL7im0xdLGkWR4line+6IF66GciZ8M=
-github.com/greenpau/go-authcrunch v1.1.9/go.mod h1:iORAODtQ3vGQegQbxuavFOZd40D91Z5jrmnBQCz83hc=
 github.com/greenpau/versioned v1.0.30 h1:QILUlfTSyJnhT8Gw9lLonZmuP5ahNQoJizw7mo30IQ4=
 github.com/greenpau/versioned v1.0.30/go.mod h1:rtFCvaWWNbMH4CJnje/xicgmrM63j++rUh5juSu0k/A=
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.7 h1:X+2YciYSxvMQK0UZ7sg45ZVabVZBeBuvMkmuI2V3Fak=
